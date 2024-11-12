@@ -1,4 +1,4 @@
-## Hello! I'm Emile 💭
+<h1 align="center">Hello! I'm Emile 💭</h1>
 
 <!--
 **Emile1636/Emile1636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
