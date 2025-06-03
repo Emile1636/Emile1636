@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 🌎 I'm Emile.</h1>
-<h3 align="center">I'm a computer science student. </h3>
+<h3 align="center">I'm a computer engineering student. </h3>
 
 <!--
 **Emile1636/Emile1636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
